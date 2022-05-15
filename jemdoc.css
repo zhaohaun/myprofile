@@ -442,6 +442,7 @@ table.imgtable, table.imgtable td {
 }
 .resume-section-content {
     color: #58677c;
+    text-align: justify;
 }
 .list-inline {
     padding-left: 0;
